@@ -1,0 +1,47 @@
+        /**Estructura de reglas CSS **/
+        /**selector {
+            propiedad : valor
+        }*/
+        /** h1 { 
+            background-color: rgb(244, 200, 235)
+        } **/
+        /* Selector universal**/
+        /*
+        *{ 
+            font-family: Verdana, Geneva, Tahoma, sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
+        /* Selector etiqueta**/
+        /*
+        header{ 
+            background-color: rgb(250, 216, 250); 
+            text-align: center;
+            color: rgb(92, 26, 80);
+            padding: 20px;
+        }
+        img{
+            width: 300px;
+            border-radius: 20px;
+            margin: 30px;
+        }
+        /* Selector clase .clase**/
+        /*.clase --- class="clase"*/
+        /*
+        .card { 
+            width: 400px;
+            display: inline-block;
+            padding: 20px;
+            border-radius: 10px; 
+            border: 1px solid gray;
+        }
+        /* Selector id #id */
+        /*#id_element ---- id="id_element"*/
+        /*
+        #button {
+            border: none;
+            background-color: black;
+            color: white;
+            font-weight: bold;
+            padding: 20px;
+        }
