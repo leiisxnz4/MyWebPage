@@ -3,10 +3,17 @@
     padding: 0;
 }
 
+/* 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(5, 33, 33);
+}
+*/
+
 header {
     width: 100vw;
     height: 400px;
-    background-image: url(./ci1.jpg);
+    background-image: url(../Images/ci1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -24,12 +31,10 @@ header div.bg {
     gap: 20px;
 }
 
-
 header img {
     width: 200px;
     border-radius: 20px;
 }
-
 
 main {
     width: 80%;
@@ -42,8 +47,6 @@ main {
     flex-wrap: wrap;
     margin-top: 20px;
 }
-
-
 
 main section .img {
     width: 100%;
